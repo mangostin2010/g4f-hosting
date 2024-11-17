@@ -10,5 +10,8 @@ COPY . /
 # Install the application dependencies
 RUN pip install -r requirements.txt
 
+# Expose the port your application listens on
+EXPOSE 8000
+
 # Define the entry point for the container
 CMD ["python", "chat.py"]
