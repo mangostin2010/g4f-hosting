@@ -1,2 +1,5 @@
-flask
-g4f
+Flask
+Flask-CORS
+Werkzeug
+aiohttp
+nest-asyncio
