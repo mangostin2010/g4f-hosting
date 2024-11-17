@@ -3,3 +3,4 @@ Flask-CORS
 Werkzeug
 aiohttp
 nest-asyncio
+g4f
