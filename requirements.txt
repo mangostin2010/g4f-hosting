@@ -5,3 +5,4 @@ aiohttp
 nest-asyncio
 g4f
 uvicorn
+fastapi
